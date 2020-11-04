@@ -15,6 +15,7 @@
       text-align: center;
       margin: 0 auto;
       padding: 5px 10px;
+      color: var(--accent);
       background: color-mod(var(--accent) blend(#1D1E28 98%));
       font-size: .8rem;
       text-transform: uppercase;
@@ -74,6 +75,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
+    color: var(--accent);
   }
 
   &.next .button__icon {

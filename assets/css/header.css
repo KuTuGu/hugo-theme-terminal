@@ -125,6 +125,10 @@
       }
     }
 
+    a {
+      text-decoration: none;
+    }
+
     .spacer {
       flex-grow: 1;
     }

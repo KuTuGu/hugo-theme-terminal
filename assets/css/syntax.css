@@ -25,7 +25,7 @@ code.language-scss,
 .token.placeholder,
 .token.variable,
 .token.attr-name {
-  color: color-mod(var(--accent) a(70%));
+  color: var(--accent);
 }
 
 .token.property,

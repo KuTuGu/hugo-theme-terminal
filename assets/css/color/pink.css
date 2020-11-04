@@ -5,6 +5,7 @@
 @import '../post.css';
 @import '../syntax.css';
 @import '../variables.css';
+@import '../buttons.css';
 
 :root {
   --accent: #EE72F1;

@@ -57,7 +57,7 @@ body {
 }
 
 a {
-  color: inherit;
+  color: var(--accent);
 
   /* Waiting for a better times... */
   /* &:has(code) {

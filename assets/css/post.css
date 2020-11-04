@@ -36,7 +36,7 @@
   &-meta {
     font-size: 1rem;
     margin-bottom: 10px;
-    color: color-mod(var(--accent) a(70%));
+    color: var(--accent);
   }
 
   &-title {
@@ -69,6 +69,7 @@
 
     a {
       text-decoration: none;
+      color: grey;
     }
   }
 
@@ -117,7 +118,7 @@
 }
 
 .hanchor {
-  color: color-mod(var(--accent) alpha(90%));
+  color: var(--accent);
   text-decoration: none;
   margin-left: 10px;
   visibility: hidden;
